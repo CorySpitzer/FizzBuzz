@@ -1,5 +1,5 @@
 
-## FizzBuzz in several different languages and programming styles.
+## FizzBuzz in several languages and coding styles
 
     gcc fizzbuzz.c -o fizzbuzz_c; ./fizzbuzz_c     # generic
 
