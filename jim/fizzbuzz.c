@@ -4,6 +4,8 @@
 // One nod to "good programming style" here is 
 // giving variable names to the constants 3, 5, and 100.
 //
+// This line was added in class.
+//
 // Jim Mahoney | Marlboro College
 // Jan 2012    | opensource.org/licenses/MIT
 //
