@@ -1,9 +1,13 @@
 ##Files
 
-	fizzbuzz.c	Imperative approach - gcc fizzbuzz.c -o fizzbuzz.
+	fizzbuzz.c	#C - Imperative approach.
 
-	fizzbuzz.py	Functional approach.
+	fizzbuzz.py	#Python - Functional approach.
 
-	fizzbuzz.rb	OOP approach. 
+	fizzbuzz.hs	#Haskell - Function approach.
 
-	fizzbuzz.scm	Imperative approach within scheme.
+	fizzbuzz.rb	#Ruby - OOP approach. 
+
+	fizzbuzz.scm	#Scheme - Imperative approach.
+
+	
